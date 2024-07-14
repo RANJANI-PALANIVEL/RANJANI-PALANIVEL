@@ -17,6 +17,6 @@
    CONNECT WITH ME:
 
 
-   <img src="https://github.com/RANJANI-PALANIVEL/RANJANI-PALANIVEL/assets/159630900/cf5f0a55-1c19-488f-a1b3-ac780bb73eb6" width="50" height="50">  <img src="https://github.com/RANJANI-PALANIVEL/RANJANI-PALANIVEL/assets/159630900/7f131d09-020b-4609-b213-a5735f681a82" width="50" height="50">
+   <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFEJZiU29Q0WaokOsnaYsbg%3D%3D" height="60" width="60">
 
   
