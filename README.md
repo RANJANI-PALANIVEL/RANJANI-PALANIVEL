@@ -1,10 +1,7 @@
 <h1 align="centre"> 👋Hi, I’m @Ranjani Palanivel</h1>
+<h3 align="centre"> Software Developer</h3>
 
 
-   
- 
-  STUDENT 
-     
  📫How to reach me...
  ranjanipalanivel31@gmail.com
 
