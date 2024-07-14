@@ -12,11 +12,11 @@
 
 
    <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/4a2f9d40-4639-442a-ba26-d139087e54bb" width="50" height="50">  
-   <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/5457b66f-9a70-4dc5-94d9-9bf8fe701d6d" width="50" height="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/7e11b176-bb86-4d39-976b-5c1361ddf346" height="50" width="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/66fdddb9-ca14-4fce-8de7-ddccfe1ef276" width="50" height="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/95fff66b-06b8-489c-83b0-66f15d2b90f3" width="70" height="70">
+   <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/5457b66f-9a70-4dc5-94d9-9bf8fe701d6d" width="50" height="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/7e11b176-bb86-4d39-976b-5c1361ddf346" height="50" width="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/66fdddb9-ca14-4fce-8de7-ddccfe1ef276" width="50" height="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/95fff66b-06b8-489c-83b0-66f15d2b90f3" width="50" height="50">
 
    CONNECT WITH ME:
 
-   <a href="https://www.linkedin.com/in/ranjani-palanivel/" target="blank"> <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjani_p" height="30" width="40"/> </a> <a href="https://www.hackerrank.com/profile/ranjanipalanive1" target="blank"> <img align="centre" src="https://github.com/user-attachments/assets/644905c4-1bd7-4bf3-8e42-1650894107ee" alt="ranjani_p" height="30" width="40"/> </a>
+   <a href="https://www.linkedin.com/in/ranjani-palanivel/" target="blank"> <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjani_p" height="30" width="40"/> </a> <a href="https://www.hackerrank.com/profile/ranjanipalanive1" target="blank"> <img align="centre" src="https://github.com/user-attachments/assets/644905c4-1bd7-4bf3-8e42-1650894107ee" alt="ranjani_p" height="50" width="50"/> </a>
 
 
 
