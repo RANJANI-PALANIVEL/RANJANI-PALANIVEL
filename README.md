@@ -1,6 +1,7 @@
-   👋Hi, I’m @Ranjani Palanivel
+<h1 align="centre"> 👋Hi, I’m @Ranjani Palanivel</h1>
 
-   _________________________________________________________
+
+   
  
   STUDENT 
      
