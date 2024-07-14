@@ -17,6 +17,6 @@
    CONNECT WITH ME:
 
 
-   <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFEJZiU29Q0WaokOsnaYsbg%3D%3D" height="60" width="60">
+   <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFEJZiU29Q0WaokOsnaYsbg%3D%3D">
 
   
