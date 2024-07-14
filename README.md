@@ -17,7 +17,7 @@
    CONNECT WITH ME:
 
 
-   <img src="https://www.linkedin.com/in/ranjani-palanivel">
+   
 
 
 
