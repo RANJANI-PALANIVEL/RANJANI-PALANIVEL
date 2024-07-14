@@ -16,7 +16,8 @@
 
    CONNECT WITH ME:
 
-   <a href="https://www.linkedin.com/in/ranjani-palanivel/" target="blank"> <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjani_p" height="30" width="40"/> </a>
+   <a href="https://www.linkedin.com/in/ranjani-palanivel/" target="blank"> <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjani_p" height="30" width="40"/> </a> <a href="https://www.hackerrank.com/profile/ranjanipalanive1" target="blank"> <img align="centre" src="https://github.com/user-attachments/assets/644905c4-1bd7-4bf3-8e42-1650894107ee" alt="ranjani_p" height="30" width="40"/> </a>
+
 
 
 
