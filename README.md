@@ -1,5 +1,5 @@
-<h1 align="centre"> 👋Hi, I’m @Ranjani Palanivel</h1>
-<h3 align="centre"> Software Developer</h3>
+  <h1 align="centre"> 👋Hi, I’m @Ranjani Palanivel</h1>
+       <h3 align="centre"> Software Developer</h3>
 
 
  📫How to reach me...
