@@ -1,4 +1,4 @@
-   👋Hi, I’m @Ranjani Palanivel
+  <text align="centre" 👋Hi, I’m @Ranjani Palanivel>
  
        STUDENT 
      
