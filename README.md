@@ -1,6 +1,6 @@
-👋Hi, I’m @Ranjani Palanivel
+   👋Hi, I’m @Ranjani Palanivel
  
-     STUDENT 
+       STUDENT 
      
  📫How to reach me...
  ranjanipalanivel31@gmail.com
