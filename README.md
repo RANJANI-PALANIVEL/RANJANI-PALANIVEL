@@ -1,6 +1,8 @@
-  <text align="centre" 👋Hi, I’m @Ranjani Palanivel>
+   👋Hi, I’m @Ranjani Palanivel
+
+   _________________________________________________________
  
-       STUDENT 
+  STUDENT 
      
  📫How to reach me...
  ranjanipalanivel31@gmail.com
