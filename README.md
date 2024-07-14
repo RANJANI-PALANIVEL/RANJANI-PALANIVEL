@@ -16,7 +16,7 @@
 
    CONNECT WITH ME:
 
-   <a href="https://www.linkedin.com/in/ranjani-palanivel/" target="blank"> <img align="centre" src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjani_p" height="30" width="40"/> </a>
+   <a href="https://www.linkedin.com/in/ranjani-palanivel/" target="blank"> <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjani_p" height="30" width="40"/> </a>
 
 
 
